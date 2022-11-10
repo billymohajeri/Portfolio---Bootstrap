@@ -1,0 +1,123 @@
+.dark-bg {
+  padding: 15% 0 20% 0;
+}
+
+.headline-container {
+  background-color: #1c1a19;
+  background-image: url(assets/desktop/headline-desktop.svg);
+  background-size: 40%;
+  background-repeat: no-repeat;
+  background-position-x: right;
+  background-position-y: -5vw;
+}
+
+.headline-primary-text {
+  font-family: "Crete Round", serif;
+  font-weight: 400;
+  font-size: 6vw;
+  color: #ff6b00;
+}
+
+.headline-supporting-text {
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 2vw;
+  line-height: 32px;
+  margin-top: 1vw;
+  color: #fff5e1;
+}
+
+.headline-description {
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 1.2vw;
+  margin-top: 1vw;
+  color: #fff;
+}
+
+.about-me-container {
+  background: #262626;
+  background-image: url(assets/desktop/about-me-desktop.svg);
+  background-size: 40%;
+  background-repeat: no-repeat;
+  background-position-x: right;
+  background-position-y: 10vw;
+  padding: 11vw;
+}
+
+.about-me-primary-text {
+  font-family: "Crete Round", serif;
+  font-weight: 400;
+  font-size: 6vw;
+  color: #f55800;
+  margin-bottom: 24px;
+  text-align: left;
+}
+
+.about-me-description {
+  font-family: "Inter", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 1.5vw;
+  margin-right: 24px;
+  margin-bottom: 24px;
+  margin-top: 0;
+  width: 55%;
+  color: #f4f5f7;
+}
+
+.skill-list-title {
+  font-family: "Inter", sans-serif;
+  font-weight: 700;
+  font-size: 2.5vw;
+  line-height: 3.5vw;
+  padding-left: 0;
+  color: #fff;
+  margin-top: 21vw;
+  display: inline-flex;
+}
+
+.skill-list-item {
+  font-family: "Inter", sans-serif;
+  margin-bottom: 32px;
+  padding-left: 0;
+  font-weight: 400;
+  font-size: 1.7vw;
+  color: #fff;
+  text-align: left;
+}
+
+.contact-section {
+  padding: 15% 4% 12% 7%;
+}
+
+.projects {
+  padding: 15% 4% 12% 7%;
+}
+
+.other-projects {
+  padding: 10%;
+}
+
+.last-project-items li {
+  display: inline;
+}
+
+.last-project-items {
+  padding: 0;
+}
+
+.last-project-image {
+  width: 35vw;
+}
+
+.socials2 li {
+  display: inline;
+  margin-right: 1.5vw;
+}
+
+ul {
+  list-style: none;
+}
